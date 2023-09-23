@@ -37,9 +37,3 @@ next-env.d.ts
 
 # IDE
 .idea
-```
-.env
-.package-lock.json
-.package.json
-
-
