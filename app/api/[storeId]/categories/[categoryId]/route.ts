@@ -1,7 +1,6 @@
 import prismadb from "@/lib/prismadb";
 import { auth } from "@clerk/nextjs";
 import { NextResponse } from "next/server";
-import Billboard from "../../../../../../ecommerce-store/components/billboard";
 
 export async function GET(
   req: Request,
